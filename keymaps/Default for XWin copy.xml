@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ChangesView.ShelveSilently" />
+  <action id="MethodHierarchy" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+</keymap>
